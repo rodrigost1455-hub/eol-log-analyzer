@@ -1,0 +1,544 @@
+Serial,Numero_Parte,Prueba,Limit_Inf,Limit_Sup,Salida_Real,Tiempo,Estatus
+261661594,7371-0199-30,Main_Set Power Supply 1 Current,,,3,23:57:35,Pasa
+261661594,7371-0199-30,Main_Set Power Supply 2 Current,,,3,23:57:35,Pasa
+261661594,7371-0199-30,Main_Power Supply 1 Output On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Power Supply 2 Output On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Set Power Supply 1 Voltage,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Set Power Supply 2 Voltage,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Bussbar 1 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Bussbar 2 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_GND RELAY On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_GND COILY On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_31 F64,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JE_18 F5,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JE_33 F21R,0,1,0.025,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB1_16 F86,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_23 F63,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB1_26 F69,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_15 F55,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB1_36 F52,0,1,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JC_28 F11,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JE_21 F42,0,1,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_20 F87,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_5 F62,12.5,14.5,12.94999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JE_44 F26,0,1,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JC_30 F39,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_28 F88,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JC13 F12,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_38 F57,0,1,0.025,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_44 K5NC,0,1,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_46 K6NC,0,1,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB2_48 K6NO,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JC23 F33L,0,1,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 1_Check JB1_38 F89,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 2_Check JB2_34 F782,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 2_Check JE-28 F37,0,1,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 2_Check JB2_2 F71,0,1,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Short Circuit Check_Read Channels Milvus 2_Check JE_3 F41,0,1,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F20 JE_2,,,0.002382441,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F04 JE_1,,,-0.006551545,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F24 JE_18,,,0.001191221,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F36 JE_20,,,0.005956104,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F07 JE_38_F07 JE_38,,,0.008934155,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F07 JE_38_Set Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F07 JE_38_Delay,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F07 JE_38_Clear Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F19 JC_2,,,-0.010125116,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F49 JC_1,,,-0.001786785,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F49 JB1_3,,,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F40 JC_15,,,-0.000595595,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F13 JC_19,,,0.010125376,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F34 JC_16,,,-0.00833833,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F28 JC_17,,,-0.004169165,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F01 JC_48_F01 JC_48,,,0.00059561,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F01 JC_48_Set Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F01 JC_48_Delay,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F01 JC_48_Measure Voltaje in ELoad,,,11.88129997,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F01 JC_48_Clear Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F2 JC_37,,,-0.00595595,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F15R JC_35,,,0.005360493,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F15L JC_27,,,-0.010125116,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F59 JB1_46_F59 JB1_46,,,0.003573662,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F59 JB1_46_Set Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F59 JB1_46_Delay,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F59 JB1_46_Measure Voltaje in ELoad,,,11.50419998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F59 JB1_46_Clear Output for ELoad,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F90 JB1_15,,,0.002978052,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F65 JB1_27,,,0.050626881,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F84 JB1_40,,,-0.001786785,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F68 JB1_34,,,0.005956104,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F76 JB1_42,,,-0.00595595,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F62 JB2_5,,,-0.00357357,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F83 JB2_27,,,0.006551714,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F74 JB2_33,,,0.006551714,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F66R JB2_24,,,-0.00119119,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_F66L JB2_32,,,0.008338545,23:57:35,Pasa
+261661594,7371-0199-30,Main_Continuity Test_Electronic Load Input Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.025,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.01,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.02,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_K1 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_F69 JB1_26,,,0.050626881,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_K1 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,2.255000114,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.809999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.889999986,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.524999976,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.600000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.580000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.580000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.174999952,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.804999948,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.924999952,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.845000029,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.375,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.404999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.585000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.13499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.265000105,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.440000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.425000012,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.435000002,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.395000011,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K1 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.425000012,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_K3 BAT On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_K3 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_F71 JB2_2,,,0.033354182,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_K3 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_K3 BAT Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,0.400000006,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.419999987,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.419999987,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.419999987,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,0.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0.460000008,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,0.460000008,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,0.360000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,0.344999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.405000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.514999986,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.555000007,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,0.395000011,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.119999997,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.144999996,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.25999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K3 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.119999997,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K5 Coil GND On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K5 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_F58 K6 NC JB2_46,,,0.066708356,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K6 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_F58 K6 NA JB2_48,,,0.107805468,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K6 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K5 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K5-K6 31XX_K5 Coil GND Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_K7 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Checa Salidas_F31 JE_27,,,0.204294354,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Checa Salidas_F37 JE_28,,,0.04884005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Checa Salidas_F25R JE_34,,,0.176300675,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Checa Salidas_F25L JE_26,,,0.275767595,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Checa Salidas_F73 JB2_25,,,0.176896274,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_K7 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.965000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,2.019999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.605000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.74000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.674999952,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.75999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.36500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,2.00999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,2.13499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,2.039999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.529999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.524999976,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.75999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.355000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.494999886,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.534999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.88499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.419999987,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K7 31XX1_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_K8 BAT On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_K8 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_F55 JB2_15,,,0.0172727,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_K8 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.914999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.955000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,3.029999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.654999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.625,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.244999886,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.860000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.980000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.894999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.404999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.434999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.63499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.204999924,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.325000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.475000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.460000008,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.474999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.439999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K8 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.460000008,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_K9 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_F11 JC_28,,,0.132821113,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_K9 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.929999948,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.980000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.600000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,3.059999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.629999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.184999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.860000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.985000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.899999976,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.419999957,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.440000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.200000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.325000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.470000029,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.479999989,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.444999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K9 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_K10 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_F42 JE_21,,,0.01548587,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_K10 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.909999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.965000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.570000052,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.629999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,3.170000076,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.61500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.220000029,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.850000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.975000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.88499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.409999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.434999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.610000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.184999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.309999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.440000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.474999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.444999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K10 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_K11 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_F41 JE_3,,,0.111379132,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_K11 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.924999952,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.970000029,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.575000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.63499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.210000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.850000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.980000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.894999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.409999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.440000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.620000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.194999933,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.315000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.460000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.879999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.479999989,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.439999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K11 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.879999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_K12 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Checa Salidas_F52 JB1_37,,,0.23467049,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Checa Salidas_F27 JC_32,,,0.205485582,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_K12 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,2.065000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,2.119999886,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.700000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.764999986,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.754999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.730000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.380000114,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.99000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,2.13499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,2.039999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.504999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.534999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.745000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.369999886,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.484999895,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.565000057,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.5,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.50999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.479999989,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K12 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.5,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_K13 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_F33L JC_23,,,0.097680099,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_F33R JC_31,,,0.167962119,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_K13 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_WAIT,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0.579999983,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.625,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,0.5,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.49000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.519999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.524999976,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,1.225000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0.579999983,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.605000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,0.579999983,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,0.430000007,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.504999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.654999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.694999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.150000006,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.185000002,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.155000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K13 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.150000006,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_K14 BAT On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_K14 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_F38 JC8,,,0.201911911,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_K14 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_F38 JC8 OFF,,,12.35712814,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0.245000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.275000006,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,0.215000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.224999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.230000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.224999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,0.36500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0.239999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.254999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,0.234999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,0.189999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,0.170000002,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.209999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.25999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.280000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,0.215000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.07,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.094999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.075000003,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K14 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.07,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_K15 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_F39 JC30,,,0.019059531,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_K15 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_WAIT,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0.535000026,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.564999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.474999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.474999994,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.469999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,0.694999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0.980000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.535000026,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,0.504999995,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,0.405000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,0.389999986,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.579999983,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.61500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,0.439999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.140000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.170000002,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.144999996,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K15 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.140000001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_K16 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_F87 JB2_20,,,0.039905895,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_K16 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.929999948,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.965000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.590000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.644999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.639999986,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.605000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.230000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.789999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,2.599999905,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.914999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.845000029,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.394999981,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.434999943,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.610000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.154999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.289999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.465000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.465000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K16 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.465000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_V+ a BOBINA (K7) On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_K18 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_F26 JE_44,,,0.023824414,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_K18 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_V+ a BOBINA (K7) Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,0.38499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,0.430000007,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,0.310000002,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,0.400000006,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,0.340000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,0.419999987,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,0.61500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,0.465000004,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.049999952,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,0.360000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,0.324999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,0.409999996,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,0.50999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,0.569999993,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,0.344999999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.104999997,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.939999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.055,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K18 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.104999997,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_K22 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_F51 JB1_48,,,0.054200545,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_K22 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.904999971,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.945000052,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.570000052,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.610000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.600000024,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.590000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.194999933,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.830000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.955000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.870000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.38499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.414999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,3.105000019,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.164999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.265000105,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.445000052,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.485000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.439999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K22 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.449999988,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_K25 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_F86 JB1_16,,,0.018463921,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_K25 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_26 F69 K1,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JC13 F12 K2,0,4,1.909999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_28 F88 K4,0,4,1.960000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_15 F55 K8,0,4,1.575000048,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_28 F11 K9,0,4,1.625,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_21 F42 K10,0,4,1.61500001,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_36 F52 K12,0,4,1.590000033,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JC23 F33L K13,0,4,2.204999924,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JC_30 F39 K15,0,4,1.830000043,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_20 F87 K16,0,4,0,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_38 F57 K17,0,4,1.960000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_44 F26 K18,0,4,1.870000005,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB2_31 F64 K19,0,4,1.38499999,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_18 F5 K21,0,4,1.409999967,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_48 F51 K22,0,4,1.610000014,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JE_42 F8 K23,0,4,2.170000076,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_38 F89 K24,0,4,2.289999962,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 1_Check JB1_16 F86 K25,0,4,1.460000038,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 2_Read All Channels,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_34 F78R K20,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 2_Check JE-28 F37 K7,0,4,0.479999989,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 2_Check JB2_2 F71 K3,0,4,0.439999998,23:57:35,Pasa
+261661594,7371-0199-30,Main_Voltage Drop Test_K25 31XX_Relays Off Check_Read Channels Milvus 2_Check JE_3 F41 K11,0,4,0.455000013,23:57:35,Pasa
+261661594,7371-0199-30,Main_GND Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode + Voltage On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode D1 - GND en JB2_48 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Measure D1 Forward Voltage,0.05,1.1,0.828493953,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode D1 - GND JB2_48 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode D2 - GND JB2_46 On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Measure Forward Voltage D2,0.05,1.1,0.834450066,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode D2 - GND JB2_46 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Forward Voltage_Diode + Voltage Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode + GND On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode D1- Voltage JB2_48 Bat On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Measure Reverse Voltage D1,12.9,13.1,12.98992634,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode D1 - Voltage JB2_48 Bat Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode D2 - Voltage JB2_46 Bat On,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Measure Reverse Voltage D2,12.9,13.1,12.99171352,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode D2 - Voltage JB2_46 Bat Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Diode Test_D1-D2_Reverse Voltage_Diode + GND Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Bussbar 1 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Bussbar 2 Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Electronic Load Input Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Power Supply 1 Output Off,,,,23:57:35,Pasa
+261661594,7371-0199-30,Main_Power Supply 2 Output Off,,,,23:57:35,Pasa

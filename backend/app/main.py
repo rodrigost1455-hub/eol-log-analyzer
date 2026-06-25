@@ -29,7 +29,7 @@ _store: dict[str, dict[str, list[dict]]] = {
 }
 
 # DATA_PATH env var lets Railway (or any server) override the default local path
-BASE_DATA = Path(os.environ.get("DATA_PATH", str(Path(__file__).resolve().parents[2] / "data" / "raw")))
+BASE_DATA = Path(os.environ.get("DATA_PATH", str(Path(__file__).resolve().parents[1] / "data" / "raw")))
 
 # Maps line name → (bulk_parser_fn, single_file_parser_fn)
 _PARSERS = {
