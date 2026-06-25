@@ -25,7 +25,7 @@ export default function StdDevChart({ anterior, nuevo, selectedTest }: Props) {
   const antMap = new Map(anterior.test_stats.map((t) => [t.test_name, t.std]));
   const nueMap = new Map(nuevo.test_stats.map((t) => [t.test_name, t.std]));
 
-  const allNames = Array.from(new Set([...antMap.keys(), ...nueMap.keys()])).sort();
+  const allNames = Array.from(new Set([...Array.from(antMap.keys()), ...Array.from(nueMap.keys())])).sort();
 
   let visibleNames: string[];
   if (selectedTest !== "all") {
