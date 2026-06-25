@@ -41,18 +41,24 @@ _PARSERS = {
 
 @app.on_event("startup")
 async def _load_preexisting():
-    """Auto-load CSV files from data/raw/{line}/{dataset}/ on startup."""
+    """Schedule CSV loading as a background task so uvicorn starts immediately."""
+    import asyncio
+    asyncio.create_task(_load_data_background())
+
+
+async def _load_data_background():
+    import asyncio
+    import traceback
     try:
-        print(f"[startup] BASE_DATA={BASE_DATA}  exists={BASE_DATA.exists()}")
         for line in _VALID_LINES:
             parse_ds_fn, _ = _PARSERS[line]
             for ds in _VALID_DATASETS:
                 path = BASE_DATA / line / ds
-                records = parse_ds_fn(path, ds)
+                records = await asyncio.to_thread(parse_ds_fn, path, ds)
                 _store[line][ds] = records
-                print(f"[startup] {line}/{ds}: {len(records)} records")
+                print(f"[data] {line}/{ds}: {len(records)} records", flush=True)
+        print("[data] All datasets loaded.", flush=True)
     except Exception:
-        import traceback
         traceback.print_exc()
 
 
