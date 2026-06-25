@@ -42,13 +42,18 @@ _PARSERS = {
 @app.on_event("startup")
 async def _load_preexisting():
     """Auto-load CSV files from data/raw/{line}/{dataset}/ on startup."""
-    for line in _VALID_LINES:
-        parse_ds_fn, _ = _PARSERS[line]
-        for ds in _VALID_DATASETS:
-            path = BASE_DATA / line / ds
-            records = parse_ds_fn(path, ds)
-            _store[line][ds] = records
-            print(f"[startup] {line}/{ds}: {len(records)} voltage records")
+    try:
+        print(f"[startup] BASE_DATA={BASE_DATA}  exists={BASE_DATA.exists()}")
+        for line in _VALID_LINES:
+            parse_ds_fn, _ = _PARSERS[line]
+            for ds in _VALID_DATASETS:
+                path = BASE_DATA / line / ds
+                records = parse_ds_fn(path, ds)
+                _store[line][ds] = records
+                print(f"[startup] {line}/{ds}: {len(records)} records")
+    except Exception:
+        import traceback
+        traceback.print_exc()
 
 
 # ── Health ────────────────────────────────────────────────────────────────────
